@@ -59,6 +59,7 @@
 /ip firewall address-list add list=NO-VPN address=5.253.24.0/22 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=5.253.96.0/22 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=5.253.225.0/24 comment=iTNet-IranAddressList
+/ip firewall address-list add list=NO-VPN address=10.0.0.0/8 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=31.2.128.0/17 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=31.7.64.0/20 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=31.7.88.0/22 comment=iTNet-IranAddressList
