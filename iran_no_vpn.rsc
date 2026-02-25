@@ -877,7 +877,7 @@
 /ip firewall address-list add list=NO-VPN address=164.138.206.0/24 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=164.215.56.0/21 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=164.215.128.0/17 comment=iTNet-IranAddressList
-/ip firewall address-list add list=NO-VPN address=169.254.0.0/24 comment=iTNet-IranAddressList
+/ip firewall address-list add list=NO-VPN address=169.254.0.0/16 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=171.22.24.0/22 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=172.16.0.0/12 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=172.80.128.0/17 comment=iTNet-IranAddressList
