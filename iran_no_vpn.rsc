@@ -861,6 +861,7 @@
 /ip firewall address-list add list=NO-VPN address=151.238.0.0/15 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=152.89.12.0/22 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=152.89.44.0/22 comment=iTNet-IranAddressList
+/ip firewall address-list add list=NO-VPN address=153.51.0.0/19 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=153.51.128.0/19 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=157.119.188.0/22 comment=iTNet-IranAddressList
 /ip firewall address-list add list=NO-VPN address=158.58.0.0/17 comment=iTNet-IranAddressList
